@@ -17,6 +17,8 @@ Although some of these started as course exercises, they have been written and s
 - [How to Run](#how-to-run)
 - [Reflection](#reflection)
 - [Contact](#contact)
+- [Download Files](#download-files)
+- [Related Projects](#related-projects)
 
 ---
 
@@ -87,3 +89,52 @@ python guess_game.py
 python library_script.py
 python bank.py
 python palindrome.py
+```
+
+If you are running the guessing game, make sure the file `words.txt` is in the same folder.  
+Each program runs in the terminal and requires no extra libraries or setup.
+
+---
+
+## Reflection
+These projects have helped me strengthen my understanding of programming logic, object-oriented design, and problem solving.  
+Through each exercise I have learned how to handle errors, structure code clearly, and build simple programs that actually work.  
+I see this as an important foundation for larger and more advanced projects in the future.
+
+---
+
+## Contact
+**Mahamed-Maki Saine**  
+Kristiania University College  
+Bachelor in Cybersecurity and IT Project Management  
+📧 [GitHub Profile](https://github.com/MakiSaine)
+
+---
+
+## Download Files
+You can download each file directly below:
+
+📄 [Download guess_game.py](https://github.com/MakiSaine/python-mini-projects-2025/raw/main/guess_game.py)  
+📄 [Download words.txt](https://github.com/MakiSaine/python-mini-projects-2025/raw/main/words.txt)  
+📄 [Download library.py](https://github.com/MakiSaine/python-mini-projects-2025/raw/main/library.py)  
+📄 [Download library_script.py](https://github.com/MakiSaine/python-mini-projects-2025/raw/main/library_script.py)  
+📄 [Download bank.py](https://github.com/MakiSaine/python-mini-projects-2025/raw/main/bank.py)  
+📄 [Download palindrome.py](https://github.com/MakiSaine/python-mini-projects-2025/raw/main/palindrome.py)
+
+Or download everything as a single ZIP file:  
+📦 [Download Full Project (ZIP)](https://github.com/MakiSaine/python-mini-projects-2025/archive/refs/heads/main.zip)
+
+---
+
+## Related Projects
+If you want to see a larger and more advanced project, check out:
+
+🧠 [MindCheck – AI Mental Health Detection Platform](https://github.com/MakiSaine/mindcheck-innovation-2025)
+
+This project focuses on artificial intelligence and data analysis to detect early signs of mental health challenges on social media.  
+It demonstrates how AI, ethics, and IT project management can work together to create meaningful digital solutions.
+
+---
+
+© 2025 Mahamed-Maki Saine  
+Cybersecurity and IT Project Management
