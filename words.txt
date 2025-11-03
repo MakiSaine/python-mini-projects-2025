@@ -1,0 +1,7 @@
+snow
+tree
+glacier
+forest
+waterfall
+peak
+script
